@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sander-Seide/static/css/main.260e68ca.css",
+    "main.js": "/Sander-Seide/static/js/main.2cf910d7.js",
+    "static/media/instagram1.png": "/Sander-Seide/static/media/instagram1.209594c1f477c7fe8418.png",
+    "static/media/browser.png": "/Sander-Seide/static/media/browser.8dbb73fe5b5552b41398.png",
+    "static/media/glob.png": "/Sander-Seide/static/media/glob.e49745da2692d61397cc.png",
+    "static/media/sander1.png": "/Sander-Seide/static/media/sander1.01498d65e892369b236b.png",
+    "static/media/natif.jpg": "/Sander-Seide/static/media/natif.505f62915ed48d345447.jpg",
+    "static/media/logo_uespoir.png": "/Sander-Seide/static/media/logo_uespoir.4055b7d49857edf6fa6e.png",
+    "static/media/flixter.jpg": "/Sander-Seide/static/media/flixter.ac005f1dacf153228e90.jpg",
+    "static/media/panier1.jpg": "/Sander-Seide/static/media/panier1.c5e5a97bb87c2c21b988.jpg",
+    "static/media/wordpress.png": "/Sander-Seide/static/media/wordpress.137ccdaba7a00ec45061.png",
+    "static/media/figma.jpg": "/Sander-Seide/static/media/figma.ff72a8f26af99978e19d.jpg",
+    "static/media/github4.png": "/Sander-Seide/static/media/github4.ebc5cabf2ef3ba7c0c44.png",
+    "static/media/php.png": "/Sander-Seide/static/media/php.b16bbdd4f00cb981519d.png",
+    "static/media/Sander-Resume.pdf": "/Sander-Seide/static/media/Sander-Resume.437cbc151cb051c95334.pdf",
+    "static/media/design3.png": "/Sander-Seide/static/media/design3.b6716e93f46e618dfb02.png",
+    "static/media/linkedin.png": "/Sander-Seide/static/media/linkedin.098ca936d3045e26bd41.png",
+    "static/media/design1.png": "/Sander-Seide/static/media/design1.c5d8fbc61211c6affb4a.png",
+    "index.html": "/Sander-Seide/index.html",
+    "main.260e68ca.css.map": "/Sander-Seide/static/css/main.260e68ca.css.map",
+    "main.2cf910d7.js.map": "/Sander-Seide/static/js/main.2cf910d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260e68ca.css",
+    "static/js/main.2cf910d7.js"
+  ]
+}
